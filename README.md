@@ -1,5 +1,5 @@
 # Job Market Data Analysis using SQL & Tableau
-
+![Dashboard Overview](images/Screenshot 2025-07-07 at 2.47.37 PM.png)
 ### Project Summary
 
 This project explores real-world job market data for a fictional recruitment company called **DataSearch**, with the goal of uncovering key hiring trends in data roles. Using **SQL**, I performed data cleaning, transformation, and exploratory analysis to understand salary patterns, in-demand skills, job titles, and experience requirements across industries and regions. The insights were visualized using **Tableau** through interactive dashboards and dynamic charts.
