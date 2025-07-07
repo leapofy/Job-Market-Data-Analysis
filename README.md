@@ -1,6 +1,6 @@
 # Job Market Data Analysis using SQL & Tableau
 
-![Dashboard Overview](https://drive.google.com/file/d/1R0qlw9yUlLL9kmIz5Ggx_261p4-DhtJy/view?usp=drive_link)
+![Dashboard Overview](Screenshot%202025-07-07%20at%202.47.37%E2%80%AFPM.png)
 
 ### Project Summary
 
